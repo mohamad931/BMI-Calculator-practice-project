@@ -1,2 +1,5 @@
-# BMI-Calculator-practice-project-
-C++ program that calculate your BMI, my first program created during my early days in learning C++.
+# First C++ Practice Project
+
+A simple CLI application created during my early days of learning C++ logic and basic concepts (functions, loops, conditionals, arrays). 
+
+*Note: This is an archived training project kept for memory and tracking my learning progress.*
